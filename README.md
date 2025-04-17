@@ -24,8 +24,8 @@ Feel free to browse my repositories. If you're interested in collaborating or di
 - **LinkedIn**: [Samiru Hemaka](https://www.linkedin.com/in/samiruhemaka)
 - **Email**: [samiruhemake@gmail.com](mailto:samiruhemake@gmail.com)
 - **Instagram**: [_sxmiru._](https://www.instagram.com/_sxmiru._/)
-- **Facebook**: [Samiru Hemaka]([https://www.linkedin.com/in/samiruhemaka](https://www.facebook.com/profile.php?id=100081120676866))
-- **Fiverr**: [Samiru Hemaka]([https://www.instagram.com/_sxmiru._/](https://www.fiverr.com/s/5r1doA4))
+- **Facebook**: [Samiru Hemaka](https://www.facebook.com/profile.php?id=100081120676866)
+- **Fiverr**: [Samiru Hemaka](https://www.fiverr.com/s/5r1doA4)
 
 <!---
 SamiruHemaka2004/SamiruHemaka2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
