@@ -36,7 +36,7 @@ Welcome to my GitHub profile. I’m Samiru Hemaka, an aspiring Full-Stack Develo
 ![Samiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiruhemaka2004&show_icons=true&theme=radical)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samiruhemaka2004&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samiruhemaka2004&theme=radical)](https://git.io/streak-stats)
 [![Samiru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiruhemaka2004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 SamiruHemaka2004/SamiruHemaka2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
