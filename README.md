@@ -33,7 +33,7 @@ Welcome to my GitHub profile. I’m Samiru Hemaka, an aspiring Full-Stack Develo
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiruhemaka2004&theme=radical)
-![Samiru's GitHub Stats](https://[github-readme-stats-two-iota-63.vercel.app](https://github-readme-stats-samiru-hemakas-projects.vercel.app/)/api?username=samiruhemaka2004&show_icons=true&theme=radical)
+![Samiru's GitHub Stats](https://github-readme-stats-samiru-hemakas-projects.vercel.app/api?username=samiruhemaka2004&show_icons=true&theme=radical)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samiruhemaka2004&theme=radical)](https://git.io/streak-stats)
