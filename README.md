@@ -34,12 +34,13 @@ Welcome to my GitHub profile. I’m Samiru Hemaka, an aspiring Full-Stack Develo
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiruhemaka2004&theme=radical)
-![Samiru's GitHub Stats](https://github-readme-stats-samiru-hemakas-projects.vercel.app/api?username=samiruhemaka2004&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-two-iota-63.vercel.app/api?username=samiruhemaka2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
+![GitHub Streak](https://github-readme-stats-two-iota-63.vercel.app/?user=samiruhemaka2004&theme=radical&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samiruhemaka2004&theme=radical)](https://git.io/streak-stats)
-[![Samiru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiruhemaka2004&theme=react-dark)
+![Top Languages](https://github-readme-stats-two-iota-63.vercel.app/api/top-langs/?username=samiruhemaka2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Samiru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiruhemaka2004&theme=react-dark)
 <!---
 SamiruHemaka2004/SamiruHemaka2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
