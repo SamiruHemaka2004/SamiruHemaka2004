@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I’m Samiru Hemaka, an aspiring Full-Stack Develo
 ## Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,nestjs,express,mongodb,mysql,python,c,cs,html,css,flutter,figma,ps,ai,git,linux,postman,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,html,css,js,react,nextjs,nodejs,nestjs,express,flutter,mongodb,mysql,figma,ps,ai,git,linux,postman,azure,docker,visualstudio,vscode,idea" />
 </p>
 
 
